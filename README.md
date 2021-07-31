@@ -2,6 +2,9 @@
 
 A very small app built with flutter using sqlite to let you randomize your build in Mario Kart 8D Deluxe.
 
+![](example.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
