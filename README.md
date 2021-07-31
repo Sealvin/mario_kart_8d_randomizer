@@ -1,6 +1,6 @@
 # mario_kart_8d_randomizer
 
-A new Flutter project.
+A very small app built with flutter using sqlite to let you randomize your build in Mario Kart 8D Deluxe.
 
 ## Getting Started
 
